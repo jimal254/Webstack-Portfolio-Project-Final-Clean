@@ -7,9 +7,6 @@
 
 ### Task - Full Stack web stack portfolio project(Housify)
 
-### alx_africa
-The ALX Holberton Software Engineering program is a 12-month(70h/week) immersive program that engages technology enthusiasts and budding software engineers in a variety of programs across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
-
 ## Starting the project
 
 1. Clone the repo to your device.
